@@ -1,4 +1,4 @@
-import numpy as np
+#import numpy as np
 import pandas as pd
 path ='csv\Online_Retail.csv'
 #Leer el dataset de ventas de un archivo de CSV.
