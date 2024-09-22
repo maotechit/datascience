@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 
 np_survey_responses0 = np.array(42)
 np_miscelanea = np.array([1,"mao",True,2.5])
